@@ -1,385 +1,105 @@
-# 💻 Karthi S - Full Stack Developer & Tech Innovator
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Karthi%20S&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20IT%20Student%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn" />
+
+</div>
 
 <div align="center">
 
 ```
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║   WEB DEVELOPER | PROBLEM SOLVER | TECH MENTOR    ║
-║                                                    ║
-║   Building Efficient & Impactful Digital Solutions ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
+◈  Code · Coffee · Creativity  ◈
 ```
 
-**"Code, Coffee & Creativity - That's My Recipe"**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Building+things+that+matter+⚡;React+%7C+Python+%7C+Full+Stack+🛠️;GATE+2026+Aspirant+🎯" alt="Typing SVG" />
 
-🎓 Third-Year IT Student | Agni College of Technology, Chennai  
-📊 CGPA: 8.1 | 🎯 GATE 2026 Aspirant | 🚀 Always Building
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthi-s)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthi-dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthidorabujji@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=web&logoColor=white)](https://remarkable-sunflower-6ac9a5.netlify.app)
-
-<br>
-
-**🟢 OPEN FOR:** Internships | Freelance Projects | Collaboration | Mentorship Opportunities
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-0f0c29?style=for-the-badge&logoColor=white)](https://remarkable-sunflower-6ac9a5.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-302b63?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthi-s)
+[![GitHub](https://img.shields.io/badge/GitHub-24243e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthi-dev)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:karthidorabujji@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 About Me
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=karthi-dev&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&ring_color=A78BFA" />
 
-I'm **Karthi S**, a passionate third-year IT student at Agni College of Technology with a mission to **build efficient, user-centric digital solutions**. 
+### `whoami`
 
-With 1+ year of hands-on experience in web development and multiple internships under my belt, I've developed expertise in creating:
-- 🎨 **Responsive, visually stunning websites** (HTML, CSS, JavaScript)
-- ⚡ **Dynamic full-stack applications** (React, Python, JavaScript)
-- 🛠️ **Robust backend solutions** (Python, APIs, Databases)
-- 📱 **Mobile-friendly & accessible interfaces**
-
-**My Philosophy:** Code isn't just about functionality—it's about creating experiences that matter. Whether it's a sleek landing page or a complex e-commerce platform, I focus on **quality, performance, and user experience**.
-
-Currently preparing for **GATE 2026** while actively working on challenging projects and mentoring aspiring developers.
-
----
-
-## 🛠️ Technical Stack
-
-<table>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" />
-      <br><strong>HTML5</strong><br><sub>Expert</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" />
-      <br><strong>CSS3</strong><br><sub>Expert</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" />
-      <br><strong>JavaScript</strong><br><sub>Advanced</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" />
-      <br><strong>React</strong><br><sub>Advanced</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" />
-      <br><strong>Python</strong><br><sub>Advanced</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" />
-      <br><strong>C++</strong><br><sub>Intermediate</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" />
-      <br><strong>C</strong><br><sub>Intermediate</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" />
-      <br><strong>Git</strong><br><sub>Advanced</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" />
-      <br><strong>VS Code</strong><br><sub>Expert</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" />
-      <br><strong>MySQL</strong><br><sub>Intermediate</sub>
-    </td>
-  </tr>
-</table>
-
-**Also Proficient In:** Responsive Design, API Integration, DOM Manipulation, Debugging, Problem-Solving, DSA (Data Structures & Algorithms)
-
----
-
-## 🚀 Featured Projects
-
-### **💼 E-Commerce Platform** | [Repo](#) | [Live Demo](#)
-A full-featured shopping application demonstrating complete development lifecycle.
-
-```
-Features:      Product catalog, cart management, checkout flow
-Tech Stack:    React | JavaScript | HTML/CSS | Python Backend
-Performance:   < 2s load time, responsive design
-Status:        ✅ Completed & Deployed
+```python
+karthi = {
+  "role"    : "Full Stack Developer",
+  "college" : "Agni College of Tech, Chennai",
+  "year"    : "3rd Year IT · CGPA 8.1",
+  "mission" : "Build. Break. Learn. Repeat.",
+  "goal"    : "GATE 2026 + SWE Internship",
+  "fun"     : ["Chess ♟", "Badminton 🏸", "Late-night bugs 🐛"]
+}
 ```
 
-**Highlights:**
-- Dynamic product listings with filtering & sorting
-- Shopping cart with real-time updates
-- User authentication & order management
-- Mobile-responsive design
-- Clean, maintainable code architecture
+<br clear="right"/>
 
 ---
 
-### **🎨 Personal Portfolio Website** | [Repo](#) | [Live](#)
-Professional portfolio showcasing skills and projects with modern design.
-
-```
-Design:        Responsive, modern, accessible
-Tech Stack:    HTML5 | CSS3 | JavaScript | Bootstrap
-Features:      About, Services, Skills, Project showcase, Contact
-Performance:   100/100 Lighthouse Score
-```
-
-**Highlights:**
-- Smooth scrolling navigation
-- Contact form integration
-- Optimized for all devices
-- Fast loading & SEO-friendly
-- Clean code documentation
-
----
-
-### **📊 Dynamic Dashboard** | [Repo](#)
-Interactive data visualization dashboard for analytics & insights.
-
-```
-Purpose:       Real-time data monitoring & visualization
-Tech:          JavaScript | Chart.js | HTML/CSS
-Features:      Charts, graphs, data filtering, responsive layout
-Status:        ✅ Completed
-```
-
----
-
-### **🎓 Academic Projects** 
-Multiple GUI-based and full-stack applications developed during coursework:
-- **GUI Applications** (Python with Tkinter)
-- **Database Management Systems** (SQL Projects)
-- **Algorithm Implementations** (C, C++, Python)
-- **Web-based Tools & Utilities**
-
----
-
-## 📈 Skills Proficiency
-
-```
-Frontend Development        ████████████████████░░ 95%
-JavaScript & DOM            ██████████████████░░░░ 90%
-Responsive Design           ██████████████████░░░░ 90%
-React.js                    █████████████████░░░░░ 85%
-Python Programming          █████████████████░░░░░ 85%
-Problem Solving             ██████████████░░░░░░░░ 80%
-Data Structures & Algo      ██████████████░░░░░░░░ 80%
-Backend Development         ███████████░░░░░░░░░░░ 65%
-Database Design             ███████░░░░░░░░░░░░░░░ 50%
-```
-
----
-
-## 💡 Services I Offer
-
-### **🌐 Web Development**
-- Custom website design & development
-- Responsive layouts for all devices
-- Frontend optimization & performance tuning
-- Website updates & maintenance
-- Landing pages & portfolios
-- E-commerce solutions
-
-### **📚 Academic Project Assistance**
-- Project idea selection & guidance
-- Full development support (Python, JavaScript, HTML/CSS)
-- Documentation & presentation help
-- Code review & optimization
-- Deadline-friendly turnaround
-
-### **👨‍🏫 Technical Mentorship**
-- Python & JavaScript tutoring
-- Data Structures & Algorithms coaching
-- GATE exam preparation (CSE fundamentals)
-- Problem-solving workshops
-- Code debugging & optimization
-- Career guidance for tech roles
-
----
-
-## 🎓 Education & Achievements
-
-| Achievement | Details | Status |
-|---|---|---|
-| **B.Tech IT** | Agni College of Technology, Chennai | 🔄 Third Year |
-| **CGPA** | 8.1 / 10.0 | ✅ Current |
-| **GATE Prep** | Focused on DSA & Core CS | 🔄 2026 |
-| **Web Dev Experience** | 1+ years hands-on | ✅ Active |
-| **Internships** | Multiple completed | ✅ 2-3 done |
-| **Projects** | 10+ academic & freelance | ✅ All complete |
-
----
-
-## 🏆 Professional Skills
-
-```
-Creativity & Innovation      ████████████░░░░░░░ 90%
-Problem-Solving Approach     █████████████░░░░░░ 85%
-Communication & Collaboration███████████░░░░░░░░ 75%
-Team Work & Cooperation      ███████████████░░░░ 85%
-Time Management              ███████████░░░░░░░░ 80%
-Adaptability & Learning      █████████████░░░░░░ 85%
-```
-
----
-
-## 🌱 Currently Working On
-
-<details open>
-<summary><b>📚 My Learning Journey</b></summary>
-
-### **Deep Focus Areas:**
-- 🎯 **GATE 2026 Preparation** - Mastering DSA, OS, Networking, DBMS
-- 💻 **Advanced React Patterns** - Hooks, Context API, Performance optimization
-- 🔗 **Full-Stack Development** - Node.js, Express, MongoDB integration
-- 🚀 **Web Performance** - Optimization, caching, lazy loading
-
-### **Actively Exploring:**
-- 📱 Responsive mobile-first design patterns
-- ⚙️ Backend optimization & API design
-- 🔐 Web security best practices
-- 📊 Advanced JavaScript patterns
-
-### **Open To:**
-- 💼 Internship opportunities (Web Dev, Full Stack)
-- 🤝 Freelance web development projects
-- 📖 Mentoring junior developers
-- 🎓 Contributing to open-source projects
-- 💬 Tech discussions & knowledge sharing
-
-</details>
-
----
-
-## 📊 GitHub Statistics
+### ⚡ Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthi-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthi-dev&layout=compact&theme=tokyonight&hide_border=true)
-
-**Contributions:** 300+ | **Repositories:** 15+ | **Most Used:** JavaScript, Python, HTML/CSS
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 My Approach
+### 🚀 Featured Projects
 
-### **Design Philosophy:**
-- ✅ **User-First:** Every project starts with user experience
-- ✅ **Clean Code:** Readable, maintainable, well-documented
-- ✅ **Performance:** Optimized for speed & efficiency
-- ✅ **Responsive:** Works seamlessly across all devices
-- ✅ **Accessible:** Inclusive design for all users
-
-### **Development Process:**
-1. **Planning** - Understand requirements & define scope
-2. **Design** - Create wireframes & prototypes
-3. **Development** - Build with clean, efficient code
-4. **Testing** - Thorough testing & debugging
-5. **Deployment** - Launch & monitor performance
-6. **Maintenance** - Continuous support & improvements
+| Project | Stack | Live |
+|:--------|:------|:----:|
+| **🛒 E-Commerce Platform** — Full cart, auth, checkout | React · Python · CSS | [→](#) |
+| **📊 Analytics Dashboard** — Real-time charts & filters | JS · Chart.js · HTML | [→](#) |
+| **🎨 Portfolio v2** — 100/100 Lighthouse, smooth UX | HTML · CSS · JS | [→](https://remarkable-sunflower-6ac9a5.netlify.app) |
 
 ---
-
-## 💬 Why Hire Me?
-
-```
-✅ Quick Learner     - Master new tech rapidly
-✅ Detail Oriented   - Pixel-perfect implementations
-✅ Communicative     - Clear explanations & updates
-✅ Reliable          - Meet deadlines consistently
-✅ Problem Solver    - Handle challenges creatively
-✅ Team Player       - Collaborate & support others
-✅ Passionate        - Genuinely excited about code
-✅ Affordable        - Competitive rates for quality work
-```
-
----
-
-## 🎮 Beyond Code
-
-- 🎯 **Chess Enthusiast** - Strategic thinking sharpens problem-solving
-- 🏸 **Badminton Player** - Teamwork & focus on court translates to team projects
-- 📖 **Lifelong Learner** - Always exploring new tech & methodologies
-- 🤝 **Community Builder** - Enjoy mentoring & helping peers succeed
-
----
-
-## 🔗 Let's Connect & Collaborate
-
-**I'm actively looking for:**
-- 💼 Internship positions in web development
-- 🎨 Freelance web design & development projects
-- 👨‍🏫 Mentoring & tutoring opportunities
-- 🤝 Open-source collaboration
-- 💡 Interesting projects that challenge me
-
-### **The Best Way to Reach Me:**
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthidorabujji@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthi-s)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthi-dev)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B35?style=for-the-badge&logo=web&logoColor=white)](https://remarkable-sunflower-6ac9a5.netlify.app)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karthi-dev&theme=midnight-purple&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
-**Phone:** 6380866409 | **Email:** shankarshanthi2020@gmail.com 
-**Response Time:** ⚡ Usually within 24 hours  
-**Available For:** Full-time projects, part-time work, immediate starts
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthi-dev&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9)
 
 </div>
 
 ---
 
-## 📝 What Others Say
-
-> "Karthi is a dedicated developer with strong problem-solving skills and a passion for clean code."  
-> — Academic Mentor
-
-> "Reliable, communicative, and delivers quality work on time."  
-> — Project Collaborator
-
-> "His mentoring helped me understand JavaScript concepts clearly."  
-> — Junior Developer Mentee
-
----
-
-## 🚀 Next Steps?
-
-Got a project in mind? Need a developer? Want to collaborate?
-
-**Let's make something awesome together!**
+### 🌱 Now
 
 ```
-→ Send me an email: shankarshanthi2020@gmail.com
-→ Connect on LinkedIn
-→ Check out my portfolio: remarkable-sunflower-6ac9a5.netlify.app
-→ Let's discuss your project!
+📖  GATE 2026 — DSA · OS · DBMS · Networking
+⚛️  Advanced React — Hooks · Context · Perf
+🔗  Full Stack — Node.js · Express · MongoDB
+💼  Open to: Internships · Freelance · Collab
 ```
 
 ---
 
 <div align="center">
 
-### **Made with 💻, ☕, and a bit of late-night debugging**
-
-**"Code, Coffee & Creativity"** — That's the Karthi S recipe ☕💻
-
-⭐ If you like my work, please star my repositories!
+<img src="https://github-profile-trophy.vercel.app/?username=karthi-dev&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=6" />
 
 </div>
 
 ---
 
- Always evolving, never settling* 🚀
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontSize=14&fontColor=A78BFA&text=Always+evolving,+never+settling+🚀&fontAlignY=65&animation=fadeIn" />
+
+</div>
