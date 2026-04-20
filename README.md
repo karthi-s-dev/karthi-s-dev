@@ -58,7 +58,7 @@ class KarthiS:
     college  = "Agni College of Technology, Chennai"
     year     = "3rd Year IT · CGPA 8.1"
     stack    = ["React", "Python", "JavaScript", "HTML/CSS", "MySQL", "Git"]
-    goal     = "Crack GATE 2026 + Land Dream SWE Internship"
+    goal     = "Land Dream SWE Internship"
     mantra   = "Build. Break. Learn. Repeat."
     hobbies  = ["Chess", "Badminton", "Late-night debugging"]
 
@@ -159,14 +159,13 @@ print(KarthiS().say_hello())
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║               KARTHI'S 2025-26 ROADMAP              ║
+║               KARTHI'S 2025-26 ROADMAP               ║
 ╠══════════════════════════════════════════════════════╣
-║  GATE 2026 ──────────── DSA · OS · CN · DBMS        ║
-║  Advanced React ─────── Hooks · Context · Perf      ║
+║  Advanced React ─────── Hooks · Context · Perf       ║
 ║  Full Stack ─────────── Node.js · Express · MongoDB  ║
-║  Open Source ────────── Contribute · Collaborate    ║
+║  Open Source ────────── Contribute · Collaborate     ║
 ╠══════════════════════════════════════════════════════╣
-║  OPEN TO: Internships · Freelance · Mentoring       ║
+║  OPEN TO: Internships · Freelance · Mentoring        ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
@@ -180,7 +179,6 @@ print(KarthiS().say_hello())
 |:--:|:-----------|:-------|
 | 🎓 | **B.Tech IT** | Agni College of Technology · 3rd Year |
 | 📈 | **CGPA** | 8.1 / 10.0 |
-| 🎯 | **GATE 2026** | DSA · OS · CN · DBMS |
 | 💼 | **Internships** | 2–3 Completed |
 | 🛠️ | **Projects** | 10+ Academic & Freelance |
 
@@ -190,7 +188,7 @@ print(KarthiS().say_hello())
 
 <div align="center">
 
-`📧 karthidorabujji@gmail.com` &nbsp;|&nbsp; `📞 6380866409` &nbsp;|&nbsp; `📍 Chennai, TN`
+`📧 shankarshanthi2020@gmail.com` &nbsp;|&nbsp; `📞 6380866409` &nbsp;|&nbsp; `📍 Chennai, TN`
 
 *Response within 24 hours · Available for immediate starts*
 
