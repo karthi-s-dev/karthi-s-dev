@@ -2,13 +2,18 @@
 <!-- ░░  KARTHI S — ULTRA PREMIUM GITHUB PROFILE README  ░░░░ -->
 <!-- ██████████████████████████████████████████████████████████ -->
 
-<!-- 🔥 ROTATING SLICE BANNER — totally different from waving -->
+<!-- 🔥 LAYER 1: SHARK BANNER — smooth dramatic sweep animation -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0728,50:1e0a4e,100:3b0f8c&height=220&section=header&text=KARTHI%20S&fontSize=75&fontColor=ffffff&fontAlignY=70&fontAlign=70&desc=⚡%20Full%20Stack%20Dev%20%7C%20Builder%20%7C%20Problem%20Solver&descAlign=70&descAlignY=85&descSize=15&descFontColor=c084fc&animation=blinking&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,30:0a0020,60:1a0050,100:2d0080&height=180&section=header&text=KARTHI%20S&fontSize=80&fontColor=ffffff&fontAlignY=55&stroke=8b5cf6&strokeWidth=2&animation=fadeIn" />
 </div>
 
-<!-- 🌈 RAINBOW DIVIDER LINE — animated gradient bar -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4,6,8,10,12,14,16,18,20,22,24&height=4&section=header&animation=twinkling" />
+<!-- 🔥 LAYER 2: SOFT CYLINDER SUBTITLE BAND — scaleIn smooth pop -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:2d0080,50:1a0050,100:0a0020&height=60&section=header&text=%E2%9A%A1%20Full%20Stack%20Developer%20%7C%20Open%20Source%20%7C%20GATE%202026%20%7C%20Chennai%20%F0%9F%87%AE%F0%9F%87%B3&fontSize=14&fontColor=c084fc&fontAlignY=65&animation=scaleIn" />
+</div>
+
+<!-- 🌈 RAINBOW PULSE DIVIDER — animated shimmer bar -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24&height=3&section=header&animation=twinkling" />
 
 <br/>
 
@@ -273,6 +278,6 @@ console.log(KARTHI.hire())
 <br/>
 
 <!-- 🔥 SLICE FOOTER — matches the slice header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:3b0f8c,50:1e0a4e,100:0f0728&height=130&section=footer&reversal=true&text=Thanks+for+visiting+%E2%80%94+drop+a+%E2%AD%90+if+you+liked+it!&fontSize=14&fontColor=00FF88&fontAlignY=75&fontAlign=30&animation=blinking" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:2d0080,50:1a0050,100:000000&height=130&section=footer&text=Thanks+for+visiting+%E2%80%94+drop+a+%E2%AD%90+if+you+liked+it!&fontSize=14&fontColor=00FF88&fontAlignY=60&animation=fadeIn" />
 
 </div>
